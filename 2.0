@@ -1,0 +1,2 @@
+Requirement already satisfied: pydantic in c:\users\32873\desktop\ai\sovits\so-vits-svc\miniconda3\lib\site-packages (1.10.8)
+Requirement already satisfied: typing-extensions>=4.2.0 in c:\users\32873\desktop\ai\sovits\so-vits-svc\miniconda3\lib\site-packages (from pydantic) (4.10.0)
