@@ -1,7 +1,9 @@
 <div align="center">
 <img alt="LOGO" src="https://avatars.githubusercontent.com/u/127122328?s=400&u=5395a98a4f945a3a50cb0cc96c2747505d190dbc&v=4" width="300" height="300" />
-  
+
 # SoftVC VITS Singing Voice Conversion
+
+整合包链接：https://pan.quark.cn/s/4a656057c38b
 
 [**English**](./README.md) | [**中文简体**](./README_zh_CN.md)
 
@@ -389,6 +391,7 @@ Optional parameters: see the next section
 - `-lea` | `--loudness_envelope_adjustment`：The adjustment of the input source's loudness envelope in relation to the fusion ratio of the output loudness envelope. The closer to 1, the more the output loudness envelope is used
 - `-fr` | `--feature_retrieval`：Whether to use feature retrieval If clustering model is used, it will be disabled, and `cm` and `cr` parameters will become the index path and mixing ratio of feature retrieval
   
+
 Shallow diffusion settings:
 - `-dm` | `--diffusion_model_path`: Diffusion model path
 - `-dc` | `--diffusion_config_path`: Diffusion config file path
