@@ -3,7 +3,7 @@
 
 # SoftVC VITS Singing Voice Conversion
 
-整合包链接：https://pan.quark.cn/s/4a656057c38b
+整合包链接：https://pan.quark.cn/s/9b062bd4a4e8
 
 [**English**](./README.md) | [**中文简体**](./README_zh_CN.md)
 
